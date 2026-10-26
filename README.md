@@ -38,7 +38,3 @@ Looking back across the milestones, my code went from "make it work" to "make it
 Graphics gave me a much better understanding of what's happening under the hood when something shows up on a screen: transformations, matrices, lighting models, textures, and the rendering pipeline. That foundation will help in the rest of my degree, especially anywhere math and programming meet.
 
 Professionally, I'm building financial planning tools and I've always been interested in navigation apps like the one I used as my example this term. Both depend on visualizing data clearly. Knowing how tools like Mapbox and WebGL draw things in real time, and how lighting and layout affect what people actually notice, helps me design dashboards and apps that are easier to read and more useful. More than anything, this course showed me I can take something that looks complicated, break it down, and build it.
-
-## AI Usage Acknowledgment
-
-I used Claude (Anthropic) as a support tool during this project to help with code refactoring, troubleshooting, and editing my written work. All design choices and final submissions are my own.
